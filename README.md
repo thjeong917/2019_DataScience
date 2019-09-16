@@ -36,4 +36,4 @@ For more detailed information, please read reports below.*
 * Predict the ratings of movies in test data by using the given training data containing movie ratings of users.
 
 **Detail**
-* [Term Project.pdf](./Term Project/Term Project.pdf)
+* [Term Project.pdf](Term Project/Term Project.pdf)
