@@ -6,42 +6,42 @@ For more detailed information, please read reports below.*
 
 
 ## **Assignment 1**
-**[Goal]**
 
+**Goal**
 
 Find association rules using the Apriori algorithm.
 
-**[Detail]**
+**Detail**
 * [Assignment1.pdf](./Assignment1/Assignment1.pdf)
 
 
 ## **Assignment 2**
-**[Goal]**
 
+**Goal**
 
 Build a decision tree, and then classify the test set using this tree.
 
-**[Detail]**
+**Detail**
 * [Assignment2.pdf](./Assignment2/Assignment2.pdf)
 
 
 ## **Assignment 3**
-**[Goal]**
 
+**Goal**
 
 Perform clustering on a given data set by using DBSCAN.
 
-**[Detail]**
+**Detail**
 * [Assignment3.pdf](./Assignment3/Assignment3.pdf)
 
 
 
 ## **Project 4(Term project)**
 
-**[Goal]**
+**Goal**
 
 
 Predict the ratings of movies in test data by using the given training data containing movie ratings of users.
 
-**[Detail]**
+**Detail**
 * [Assignment4.pdf](./Term_Project/Term_Project.pdf)
